@@ -19,6 +19,8 @@ To achieve the aim, first you need to install "react-router-dom".
 
 Now when react-router-dom in installed we can use it in our code. I have created 4 .js files which are named as Home, About, Navigation and First Page.  These files are added in the components folder and used as components in the project.
 
+The code is given in the files named as "App.js" and components folder.
+
 1. First Page : It is the first default page that will be shown to users.
 ![image](https://user-images.githubusercontent.com/63490144/122632731-5adc9280-d0f2-11eb-8315-d827d3e694d8.png)
 
