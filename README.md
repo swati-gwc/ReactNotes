@@ -21,7 +21,9 @@
    * This is the official site of React JS and you can check the whole documentation here.
 2. [Material UI](https://material-ui.com/) 
    * This site is great to choose sample codes and icons for your react application.
-3. [UseRef() in React](https://dmitripavlutin.com/react-useref-guide/)
+3. [How to Style your react app?](https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945/)
+   * To understand how to style your react components
+4. [UseRef() in React](https://dmitripavlutin.com/react-useref-guide/)
    *  This is a good article to understand what is useRef() and useState() in react.
   
 
