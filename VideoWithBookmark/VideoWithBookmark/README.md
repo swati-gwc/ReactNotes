@@ -4,11 +4,12 @@ This project contains many random components made for practise. The best is vide
 ### Extra installations
 Following are the names that you will require to install to run the project (incase not already installed):
 
-@material-ui/icons
-@material-ui/core
-react-player
-screenfull
-react-uuid
+1. @material-ui/icons
+2. @material-ui/core
+3. react-player
+4. screenfull
+5. react-uuid
+
 To install them write command as npm install libname where libname is the names given above.
 
 ### Getting Started with Create React App for beginners
